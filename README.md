@@ -1,5 +1,3 @@
-# Oracle---certification-
-
 # Oracle Cloud Infrastructure 2025 Certified Data Science Professional
 
 ## 📜 Certification Details
